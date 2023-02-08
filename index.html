@@ -112,25 +112,21 @@
                     <h3 class="mb1">Contact us to get started</h3>
                     <p>We'll reply when we get back from&nbsp;fishing.</p>
                 </div>
-                <form>
-                    <div class="grid-row">
-                        <div class="grid-column span-half mt1">
-                            <label class="label" for="name">Name</label>
-                            <input class="form-control" id="name">
-                        </div>
-                        <div class="grid-column span-half mt1">
-                            <label class="label" for="email">Email</label>
-                            <input class="form-control" id="email" type="email">
-                        </div>
-                    </div>
-                    <label class="label mt1" for="dates">Timeline</label>
-                    <input class="form-control" id="dates">
-                    <label class="label mt1" for="message">Message</label>
-                    <textarea class="form-control" id="message"></textarea>
-                    <div class="align--right mt1">
-                        <button class="btn btn--outline">Send</button>
-                    </div>
-                </form>
+               <form
+  action="https://formspree.io/f/xvonkkda"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
             </div>
         </section>
         
