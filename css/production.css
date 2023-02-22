@@ -268,7 +268,7 @@ select::-ms-expand {
 }
 
 body,option {
-    color: #454545;
+    color: #f0066f;
     background-color: #ededed
 }
 
@@ -332,7 +332,7 @@ body {
 }
 
 ::selection {
-    background-color: #f0066f;
+    background-color: #000000;
     color: #ededed;
     text-shadow: none
 }
@@ -415,8 +415,8 @@ a.btn.disabled,fieldset[disabled] a.btn {
 }
 
 .btn--default {
-    background-color: #f0066f;
-    border-color: #f0066f;
+    background-color: #000000;
+    border-color: #000000;
     color: #ededed
 }
 
@@ -434,7 +434,7 @@ a.btn.disabled,fieldset[disabled] a.btn {
     background-color: transparent;
     border-color: #5a5661;
     border-width: 2px;
-    color: #454545
+    color: #f0066f
 }
 
 .btn--outline:focus,.btn--outline:hover,.btn--outline:visited:focus,.btn--outline:visited:hover {
@@ -444,8 +444,8 @@ a.btn.disabled,fieldset[disabled] a.btn {
 }
 
 .btn--outline:active,.btn--outline:visited:active {
-    background-color: #454545;
-    border-color: #454545
+    background-color: #f0066f;
+    border-color: #f0066f
 }
 
 .container {
@@ -481,7 +481,7 @@ canvas,iframe,img,svg,video {
     border-right: 0;
     border-left: 0;
     border-radius: 0;
-    color: #454545;
+    color: #f0066f;
     font-family: Karla,Verdana,sans-serif;
     line-height: 1.6rem;
     padding: .1rem 0;
@@ -522,7 +522,7 @@ canvas,iframe,img,svg,video {
 }
 
 .select {
-    color: #454545;
+    color: #f0066f;
     display: block;
     position: relative
 }
@@ -823,14 +823,14 @@ canvas,iframe,img,svg,video {
 }
 
 .default-links a,.default-links a:link,.default-links a:visited,.link,.link:link,.link:visited {
-    color: #454545;
+    color: #f0066f;
     text-decoration: underline;
     -webkit-transition: color .2s ease-out;
     transition: color .2s ease-out
 }
 
 .default-links a:focus,.default-links a:hover,.link:focus,.link:hover {
-    color: #f0066f;
+    color: #000000;
     text-decoration: underline
 }
 
@@ -1133,11 +1133,11 @@ hr {
 }
 
 .text--darkest-gray {
-    color: #454545
+    color: #f0066f
 }
 
 .text--primary-color,.text--secondary-color {
-    color: #f0066f
+    color: #000000
 }
 
 .text--tertiary-color {
@@ -1165,11 +1165,11 @@ hr {
 }
 
 .bg--darkest-gray {
-    background-color: #454545
+    background-color: #f0066f
 }
 
 .bg--primary-color,.bg--secondary-color {
-    background-color: #f0066f
+    background-color: #000000
 }
 
 .bg--tertiary-color {
