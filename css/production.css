@@ -332,7 +332,7 @@ body {
 }
 
 ::selection {
-    background-color: #9bccbb;
+    background-color: #f0066f;
     color: #ededed;
     text-shadow: none
 }
@@ -415,8 +415,8 @@ a.btn.disabled,fieldset[disabled] a.btn {
 }
 
 .btn--default {
-    background-color: #9bccbb;
-    border-color: #9bccbb;
+    background-color: #f0066f;
+    border-color: #f0066f;
     color: #ededed
 }
 
@@ -830,7 +830,7 @@ canvas,iframe,img,svg,video {
 }
 
 .default-links a:focus,.default-links a:hover,.link:focus,.link:hover {
-    color: #9bccbb;
+    color: #f0066f;
     text-decoration: underline
 }
 
@@ -1137,7 +1137,7 @@ hr {
 }
 
 .text--primary-color,.text--secondary-color {
-    color: #9bccbb
+    color: #f0066f
 }
 
 .text--tertiary-color {
