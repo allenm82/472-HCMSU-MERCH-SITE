@@ -324,7 +324,7 @@ svg {
 }
 
 body {
-    background-color: #f5f4f0!important;
+    background-color: #ededed!important;
     line-height: 1.6rem;
     margin: 0;
     padding: 0;
@@ -332,8 +332,8 @@ body {
 }
 
 ::selection {
-    background-color: #000000;
-    color: #ededed;
+    background-color: #f0066f;
+    color: #000000;
     text-shadow: none
 }
 
