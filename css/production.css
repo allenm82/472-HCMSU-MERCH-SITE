@@ -268,7 +268,7 @@ select::-ms-expand {
 }
 
 body,option {
-    color: #f0066f;
+    color: #000000;
     background-color: #ededed
 }
 
@@ -324,7 +324,7 @@ svg {
 }
 
 body {
-    background-color: #FDC3DA !important;
+    background-color: #ffffff !important;
     line-height: 1.6rem;
     margin: 0;
     padding: 0;
@@ -332,8 +332,8 @@ body {
 }
 
 ::selection {
-    background-color: #f0066f;
-    color: #000000;
+    background-color: #000000;
+    color: #ffffff;
     text-shadow: none
 }
 
@@ -460,7 +460,7 @@ canvas,iframe,img,svg,video {
 }
 
 .logo {
-    width: 385px
+    width: 1000px
 }
 
 @media screen and (min-width:1000px) {
@@ -471,8 +471,8 @@ canvas,iframe,img,svg,video {
 }
 
 .icon {
-    height: 35px;
-    width: 35px
+    height: 90px;
+    width: 90px
 }
 
 .form-control,.select select {
@@ -1169,7 +1169,7 @@ hr {
 }
 
 .bg--primary-color,.bg--secondary-color {
-    background-color: #000000
+    background-color: #f0066f
 }
 
 .bg--tertiary-color {
