@@ -444,8 +444,8 @@ a.btn.disabled,fieldset[disabled] a.btn {
 }
 
 .btn--outline:active,.btn--outline:visited:active {
-    background-color: #f0066f;
-    border-color: #f0066f
+    background-color: #89c2a9;
+    border-color: #89c2a9
 }
 
 .container {
@@ -481,7 +481,7 @@ canvas,iframe,img,svg,video {
     border-right: 0;
     border-left: 0;
     border-radius: 0;
-    color: #f0066f;
+    color: #89c2a9;
     font-family: Karla,Verdana,sans-serif;
     line-height: 1.6rem;
     padding: .1rem 0;
@@ -522,7 +522,7 @@ canvas,iframe,img,svg,video {
 }
 
 .select {
-    color: #f0066f;
+    color: #89c2a9;
     display: block;
     position: relative
 }
@@ -823,7 +823,7 @@ canvas,iframe,img,svg,video {
 }
 
 .default-links a,.default-links a:link,.default-links a:visited,.link,.link:link,.link:visited {
-    color: #f0066f;
+    color: #89c2a9;
     text-decoration: underline;
     -webkit-transition: color .2s ease-out;
     transition: color .2s ease-out
