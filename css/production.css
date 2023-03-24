@@ -476,7 +476,7 @@ canvas,iframe,img,svg,video {
 }
 
 .form-control,.select select {
-    border-bottom: 2px solid #5a5661;
+    border-bottom: 2px solid #000000;
     border-top: 0;
     border-right: 0;
     border-left: 0;
@@ -1011,13 +1011,13 @@ p {
 
 hr {
     border: 0;
-    border-top: 1px solid #5a5661;
+    border-top: 1px solid #000000;
     display: block;
     height: 1px
 }
 
 .blockquote {
-    border-left: 4px solid #5a5661;
+    border-left: 4px solid #000000;
     font-family: Karla,Verdana,sans-serif;
     font-size: 1.333rem;
     font-style: italic;
@@ -1071,31 +1071,31 @@ hr {
 }
 
 .border--full {
-    border-color: #5a5661;
+    border-color: #000000;
     border-style: solid;
     border-width: 2px
 }
 
 .border--top {
-    border-top-color: #5a5661;
+    border-top-color: #000000;
     border-top-style: solid;
     border-top-width: 2px
 }
 
 .border--right {
-    border-right-color: #5a5661;
+    border-right-color: #000000;
     border-right-style: solid;
     border-right-width: 2px
 }
 
 .border--bottom {
-    border-bottom-color: #5a5661;
+    border-bottom-color: #000000;
     border-bottom-style: solid;
     border-bottom-width: 2px
 }
 
 .border--left {
-    border-left-color: #5a5661;
+    border-left-color: #000000;
     border-left-style: solid;
     border-left-width: 2px
 }
@@ -1129,7 +1129,7 @@ hr {
 }
 
 .text--dark-gray {
-    color: #5a5661
+    color: #000000
 }
 
 .text--darkest-gray {
@@ -1161,7 +1161,7 @@ hr {
 }
 
 .bg--dark-gray {
-    background-color: #5a5661
+    background-color: #000000
 }
 
 .bg--darkest-gray {
